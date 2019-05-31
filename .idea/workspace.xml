@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63af7bdc-fec5-40c3-aebe-cf24a0021caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FD1-course-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7 copy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/7 copy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DrawingPin1_Blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/DrawingPin1_Blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adblock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/adblock.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/background3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bgForModal.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bgForModal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/calculator.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/calculator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dentist__.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/dentist__.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/billboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/billboard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/clinpro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/clinpro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/dentist/dentist8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/dentist/dentist8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/gallery-about/cabinet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/gallery-about/cabinet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/gallery-about/collective.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/gallery-about/collective.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/gallery-about/dentis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/gallery-about/dentis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/gallery-about/gallereya-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/gallery-about/gallereya-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/gallery-about/littleboy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/gallery-about/littleboy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/gallery-about/office.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/gallery-about/office.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/gallery-about/patient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/gallery-about/patient.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/halva.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/halva.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/scare.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/scare.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/baby-boy-1508121_640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/consult.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/consult2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/consult3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/dentaltreatment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/dentaltreatment2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/dentaltreatment3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/dentaltreatment4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/kids1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/kids2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/kids3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/kids4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/kids5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/kids6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/kids7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/periodont.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/periodont2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/periodont3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/periodont4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/services gallery/periodont5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/uhod.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/uhod.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/uhod2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/uhod2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/paper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/paper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/top-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/top-512.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/styles/default.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FD1-course-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FD1-course-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63af7bdc-fec5-40c3-aebe-cf24a0021caf" name="Default Changelist" comment="" />
+      <created>1559047170903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559047170903</updated>
+      <workItem from="1559047173334" duration="478000" />
+      <workItem from="1559290858355" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1285000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/background3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/top-512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="67" column="37" lean-forward="true" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Back-to-Top.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/gallery/kids dental.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/gallery/gallery-about/building.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
